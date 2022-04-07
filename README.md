@@ -11,10 +11,6 @@
 
   <h6>✨ currently looking for new opportunities.</h6>
   
-  <h6>🌱 currently learning</h6>
-  <pre> 
-    <img src="https://img.shields.io/badge/git-343434?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/php-343434?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/React-343434?style=flat-square&logo=React&logoColor=white"/>
-  </pre>
   <h6>🎨 currently working with</h6>
     <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
